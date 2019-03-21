@@ -14,7 +14,7 @@ jobs:
       - checkout
       - run:
           name: Convert markdown to html
-          command: (cd md ; bash _convert_markdown_to_html.sh)
+          command: (cd scripts ; bash _convert_markdown_to_html.sh)
       - run:
           name: Upload to s3
           command: aws s3 cp site s3://bucket-host-website  --recursive
