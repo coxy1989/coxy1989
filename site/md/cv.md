@@ -26,7 +26,6 @@
 	- [I did a detailed EDA](https://github.com/coxy1989/west-nile-virus) on the data from the *West Nile Virus Prediction* Kaggle competition.
 
 - *Courses:* 
-
 	- I read Tibshirani and Hastie's *Introduction to Statistical Learning With applications in R* [and did the labs and exercises in Python rather than R](https://github.com/coxy1989/isl). I implemented several of the algorithms from that book and *The Elements of Statistical Learning* [from scratch in numpy](https://github.com/coxy1989/algs).
 	- I took Andrew Ng's [*Machine Learning*](https://github.com/coxy1989/ng_ml), [*Neural Networks and Deep Learning*](https://www.coursera.org/account/accomplishments/records/8PMHWASDBR88) and [*Sequence Models*](https://www.coursera.org/account/accomplishments/records/DTG5PML6SWAJ) courses. I also took Jeremy Howard's fast.ai course.
 	- I took Pavel Grinfeld's Linear Algebra course from Drexel, available via [lem.ma](https://www.lem.ma/) and Imperial College's [Mathematics for Machine Learning specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/ARMLMTNPZJTD).
