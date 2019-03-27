@@ -14,9 +14,9 @@
 ### Machine Learning Sabbatical: *July 2018 - Now*
 
 - *Deep Learning Paper Implementations*: 
-	- I [Implemented](https://github.com/coxy1989/tfmr) a modified version of the decoder component from *Vaswani et al. Attention Is All You Need* and used it to train a language model with a baking cookbook.
-	- I [Implemented](https://github.com/coxy1989/superconv) the *1cycle* learning rate policy from *Leslie N. Smith. Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates* and verified the reported empirical results.
-	- I [Implemented](https://github.com/coxy1989/clr) the *learning rate range test* from  Leslie N. Smith. Cyclical Learning Rates for Training Neural Networks and verified the reported empirical results.
+	- I [implemented](https://github.com/coxy1989/tfmr) a modified version of the decoder component from *Vaswani et al. Attention Is All You Need* and used it to train a language model with a baking cookbook.
+	- I [implemented](https://github.com/coxy1989/superconv) the *1cycle* learning rate policy from *Leslie N. Smith. Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates* and verified the reported empirical results.
+	- I [implemented](https://github.com/coxy1989/clr) the *learning rate range test* from  Leslie N. Smith. Cyclical Learning Rates for Training Neural Networks and verified the reported empirical results.
 
 - *Machine Learning Projects:* 
 	- [I trained a character level language model using an LSTM on the BNF](https://github.com/coxy1989/rx) and wrote inference code to run it in the browser for a fun(-ish) [mini-game](https://rx.coxy1989.com/).
@@ -28,13 +28,13 @@
 - *Courses:* 
 	- I read Tibshirani and Hastie's *Introduction to Statistical Learning With applications in R* [and did the labs and exercises in Python rather than R](https://github.com/coxy1989/isl). I implemented several of the algorithms from that book and *The Elements of Statistical Learning* [from scratch in numpy](https://github.com/coxy1989/algs).
 	- I took Andrew Ng's [*Machine Learning*](https://github.com/coxy1989/ng_ml), [*Neural Networks and Deep Learning*](https://www.coursera.org/account/accomplishments/records/8PMHWASDBR88) and [*Sequence Models*](https://www.coursera.org/account/accomplishments/records/DTG5PML6SWAJ) courses. I also took Jeremy Howard's fast.ai course.
-	- I took Pavel Grinfeld's Linear Algebra course from Drexel, available via [lem.ma](https://www.lem.ma/) and Imperial College's [Mathematics for Machine Learning specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/ARMLMTNPZJTD).
+	- I took Pavel Grinfeld's Linear Algebra course from Drexel, available via [lem.ma](https://www.lem.ma/) and took Imperial College's [Mathematics for Machine Learning specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/ARMLMTNPZJTD).
 
 *I kept a [learning log](https://www.coxy1989.com/learning_log.html) from 15/07/2018 up until 18/12/2018, when I got tired of keeping it up to date :s* 
 
 ### Software Engineer @ [Touchpress](https://en.wikipedia.org/wiki/Touchpress) (which became) [Amphio](https://www.amphio.co/): *July 2015 - July 2018*
 
-- *Systems:* Our team delivered core services for important artistic and scientific institutions. I was lead software engineer on the [ISO Library](https://www.amphio.co/iso.html) and [IOP events](https://www.amphio.co/iop-events.html) projects. I wrote the web front-ends in Clojurescript and implemented the lambda functions and workers on the backend in Python. I deployed these systems on AWS using Terraform and used CircleCI for continuous integration and delivery. 
+- *Systems:* Our team delivered core services for important artistic and scientific institutions. I was lead software engineer on the [ISO Library](https://www.amphio.co/iso.html) and [IOP events](https://www.amphio.co/iop-events.html) projects. I wrote the web front-ends in Clojurescript and implemented (AWS) lambda functions and workers on the backend in Python. I deployed these systems on AWS using Terraform and used CircleCI for continuous integration and delivery. 
 
 - *Prototyping:* I [implemented](https://github.com/coxy1989/soundarama_open_source) a novel distributed PA system called *"Soundarama"* for a series of events at Frank Gehry's iconic *Fondation Louis Vuitton* gallery in Paris. The system connected one hundred iOS devices owned by the gallery to enable a DJ, using an iPad, to play audio stems though the devices in very tight musical time. Participants could augment the sound using the accelerometer and gyroscope in their devices. I wrote the applications in Swift using the functional reactive programming paradigm afforded by the ReactiveCocoa library.
 
@@ -50,7 +50,7 @@
 
 ### [Core Contributor](https://github.com/ResearchKit/ResearchKit/graphs/contributors?from=2015-04-12&to=2018-04-07&type=a) @ [ResearchKit](https://github.com/ResearchKit/ResearchKit): *Spring 2015*
 
-Research-Kit is an open source iOS framework implemented in Objective-C and maintained by Apple. The goal of the project is to make it easy to create apps for medical research and other research projects. I [was thanked by Apple](https://developer.apple.com/videos/play/wwdc2016/234/?time=1571)  for my contributions during a presentation at Apple's Worldwide Developers Conference. My contributions are used in production by [organisations](https://qolty.com/) leveraging ResearchKit to undertake medical research, they include:
+I [was thanked by Apple](https://developer.apple.com/videos/play/wwdc2016/234/?time=1571)  for my contributions during a presentation at Apple's Worldwide Developers Conference. My contributions are used in production by [organisations](https://qolty.com/) leveraging ResearchKit to undertake medical research, they include:
 
 
 - A [cognitive assessment](http://researchkit.org/docs/docs/ActiveTasks/ActiveTasks.html#tower) based on the Tower of Hanoi [#318](https://github.com/ResearchKit/ResearchKit/pull/318).
