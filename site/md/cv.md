@@ -5,8 +5,6 @@
 | I'm a polyglot software engineer based in London, working on machine learning projects. I've written software in a broad range of domains, using a variety of languages and paradigms. Away from the computer, you'll find me at the movies, at a musical, tending to a Weber Master-Touch or baking Malteser blondies. |
 | [Website](https://www.coxy1989.com/)  |
 | [Github](https://github.com/coxy1989)  |
-| 144 Edgeley Road, London, SW4 6HB  |
-| 07951981283  |
 | gcoxy1989@gmail.com  |
 
 ## Experience
