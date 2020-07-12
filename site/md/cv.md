@@ -2,14 +2,18 @@
 
 | Jamie Cox  |
 |---------------------------------------------------------------------------------------------------------------|
-| I'm a polyglot software engineer based in London, working on machine learning projects. I've written software in a broad range of domains, using a variety of languages and paradigms. Away from the computer, you'll find me at the movies, at a musical, tending to a Weber Master-Touch or baking Malteser blondies. |
+| I'm a polyglot software engineer / data scientist based in London, I am currently working on the symptom checker at Babylon Health. I've written software in a broad range of domains, using a variety of languages and paradigms. Away from the computer, you'll find me making homemade salami or tiramisu. |
 | [Website](https://www.coxy1989.com/)  |
 | [Github](https://github.com/coxy1989)  |
 | gcoxy1989@gmail.com  |
 
 ## Experience
 
-### Machine Learning Sabbatical: *July 2018 - Now*
+### AI Software Engineer @ Babylon Health *June 2019 - Now*
+
+Making healthcare accessible and affordable for everyone - I work on the symptom checker.
+
+### Machine Learning Sabbatical: *July 2018 - June 2019*
 
 - *Deep Learning Paper Implementations*: 
 	- I [implemented](https://github.com/coxy1989/tfmr) a modified version of the decoder component from *Vaswani et al. Attention Is All You Need* and used it to train a language model with a baking cookbook.
@@ -30,9 +34,9 @@
 
 *I kept a [learning log](https://www.coxy1989.com/learning_log.html) from 15/07/2018 up until 18/12/2018, when I got tired of keeping it up to date :s* 
 
-### Software Engineer @ [Touchpress](https://en.wikipedia.org/wiki/Touchpress) (which became) [Amphio](https://www.amphio.co/): *July 2015 - July 2018*
+### Software Engineer @ [Touchpress](https://en.wikipedia.org/wiki/Touchpress) (which became) [Amphio](https://coxy1989.com/amphio/index.html): *July 2015 - July 2018*
 
-- *Systems:* Our team delivered core services for important artistic and scientific institutions. I was lead software engineer on the [ISO Library](https://www.amphio.co/iso.html) and [IOP events](https://www.amphio.co/iop-events.html) projects. I wrote the web front-ends in Clojurescript and implemented (AWS) lambda functions and workers on the backend in Python. I deployed these systems on AWS using Terraform and used CircleCI for continuous integration and delivery. 
+- *Systems:* Our team delivered core services for important artistic and scientific institutions. I was lead software engineer on the [ISO Library](https://coxy1989.com/amphio/iso.html) and [IOP events](https://coxy1989.com/amphio/iop-events.html) projects. I wrote the web front-ends in Clojurescript and implemented (AWS) lambda functions and workers on the backend in Python. I deployed these systems on AWS using Terraform and used CircleCI for continuous integration and delivery. 
 
 - *Prototyping:* I [implemented](https://github.com/coxy1989/soundarama_open_source) a novel distributed PA system called *"Soundarama"* for a series of events at Frank Gehry's iconic *Fondation Louis Vuitton* gallery in Paris. The system connected one hundred iOS devices owned by the gallery to enable a DJ, using an iPad, to play audio stems though the devices in very tight musical time. Participants could augment the sound using the accelerometer and gyroscope in their devices. I wrote the applications in Swift using the functional reactive programming paradigm afforded by the ReactiveCocoa library.
 
